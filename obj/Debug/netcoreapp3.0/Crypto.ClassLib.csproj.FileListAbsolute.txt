@@ -1,0 +1,8 @@
+/home/tarcisio/Projects/Crypto.ClassLib/bin/Debug/netcoreapp3.0/Crypto.ClassLib.deps.json
+/home/tarcisio/Projects/Crypto.ClassLib/bin/Debug/netcoreapp3.0/Crypto.ClassLib.dll
+/home/tarcisio/Projects/Crypto.ClassLib/bin/Debug/netcoreapp3.0/Crypto.ClassLib.pdb
+/home/tarcisio/Projects/Crypto.ClassLib/obj/Debug/netcoreapp3.0/Crypto.ClassLib.csprojAssemblyReference.cache
+/home/tarcisio/Projects/Crypto.ClassLib/obj/Debug/netcoreapp3.0/Crypto.ClassLib.AssemblyInfoInputs.cache
+/home/tarcisio/Projects/Crypto.ClassLib/obj/Debug/netcoreapp3.0/Crypto.ClassLib.AssemblyInfo.cs
+/home/tarcisio/Projects/Crypto.ClassLib/obj/Debug/netcoreapp3.0/Crypto.ClassLib.dll
+/home/tarcisio/Projects/Crypto.ClassLib/obj/Debug/netcoreapp3.0/Crypto.ClassLib.pdb
