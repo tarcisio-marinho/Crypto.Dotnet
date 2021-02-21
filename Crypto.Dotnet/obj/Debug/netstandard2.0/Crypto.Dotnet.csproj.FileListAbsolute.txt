@@ -1,0 +1,4 @@
+C:\Projects\mine\Crypt\Crypto.Dotnet\Crypto.Dotnet\obj\Debug\netstandard2.0\Crypto.Dotnet.csprojAssemblyReference.cache
+C:\Projects\mine\Crypt\Crypto.Dotnet\Crypto.Dotnet\obj\Debug\netstandard2.0\Crypto.Dotnet.AssemblyInfoInputs.cache
+C:\Projects\mine\Crypt\Crypto.Dotnet\Crypto.Dotnet\obj\Debug\netstandard2.0\Crypto.Dotnet.AssemblyInfo.cs
+C:\Projects\mine\Crypt\Crypto.Dotnet\Crypto.Dotnet\obj\Debug\netstandard2.0\Crypto.Dotnet.csproj.CoreCompileInputs.cache
