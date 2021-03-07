@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tests/1.0.0": {
+        "dependencies": {
+          "Crypto.Dotnet": "1.0.0"
+        },
+        "runtime": {
+          "Tests.dll": {}
+        }
+      },
+      "Crypto.Dotnet/1.0.0": {
+        "runtime": {
+          "Crypto.Dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Crypto.Dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

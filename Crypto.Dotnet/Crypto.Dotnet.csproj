@@ -1,13 +1,20 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
 	  <TargetFramework>netstandard2.1</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Core\Interfaces\**" />
+    <Compile Remove="Infrastructure\**" />
+    <EmbeddedResource Remove="Core\Interfaces\**" />
+    <EmbeddedResource Remove="Infrastructure\**" />
+    <None Remove="Core\Interfaces\**" />
+    <None Remove="Infrastructure\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Core\Asymmetric\" />
-    <Folder Include="Core\Interfaces\" />
-    <Folder Include="Infrastructure\" />
   </ItemGroup>
 
 </Project>
