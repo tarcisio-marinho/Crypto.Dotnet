@@ -15,16 +15,16 @@ namespace Crypto.Dotnet.Core.Symmetric
             var nonceSize = AesGcm.NonceByteSizes.MinSize;
             var tagSize = AesGcm.TagByteSizes.MinSize;
 
-            byte[] tag = new byte[tagSize]; // TODO: Generate random bytes to tag ?
+            byte[] tag = new byte[tagSize]; 
             byte[] cipherText = new byte[data.Length];
-            byte[] _nonce = RandomBytes.Generate(nonceSize);
+            byte[] nonce = RandomBytes.Generate(nonceSize);
 
             key = SHA256Hash.Hash(key);
 
             using (var cipher = new AesGcm(key))
             {
-                cipher.Encrypt(_nonce, data, cipherText, tag, null);
-                return ByteConversion.Concat(tag, ByteConversion.Concat(_nonce, cipherText));
+                cipher.Encrypt(nonce, data, cipherText, tag, null);
+                return ByteConversion.Concat(tag, ByteConversion.Concat(nonce, cipherText));
             }
         }
 
