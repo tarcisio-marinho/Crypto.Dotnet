@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ToTir6sYrBFD9lb5z8ZCZL+ZCaEbeMaDCBGWEGBxgG7teRaXfztuH2q3yddWJ8i9NKQ+XyydJFJA440DvPcJoQ==",
+  "dgSpecHash": "WU6rGifLBCAbKauvOmRF2FAUlmRwRxOhO69B8UjWY8BY6rZ+TGmkN9au0oMAhshJpRqmNkwGLyvRZ8AfO7Xi8g==",
   "success": true,
   "projectFilePath": "C:\\Projects\\mine\\Crypt\\Crypto.Dotnet\\Crypto.Dotnet\\Crypto.Dotnet.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\U003725\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\U003725\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
